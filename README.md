@@ -1,1 +1,5 @@
 # ProjectJs
+
+#install
+
+npm install
